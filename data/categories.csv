@@ -1,0 +1,10 @@
+category_id,category_name,description
+1,Fire detection systems and suppression control,"All signals converge in the fire alarm control panel, which reliably supplies the responsible offices with all relevant information. Also used to control and monitor other fire protection systems."
+2,Water-based suppression systems,"Water is the most natural of all extinguishing agents and usually available in sufficient quantities at low cost. Extinguishing effect is based on heat binding capacity."
+3,Minifog water mist systems,"Sprays extinguishing water very finely through special nozzles at increased operating pressures, increasing surface area for faster heat absorption and evaporation, enabling effective firefighting with reduced water use."
+4,Foam extinguishing systems,"Distribute foam over a large area via foam pipes, monitors, sprinklers or nozzles. Foam covers the combustible material, extinguishes the fire and prevents re-ignition. Suited for flammable liquids or plastics."
+5,Gas-based suppression systems,"Fight fires without side effects or extinguishing agent residue, even where sprinklers cannot reach. Extinguish via oxygen displacement (inert gases) or heat extraction (synthetic gases)."
+6,Compact suppression systems,"Similar in design to larger extinguishing systems but distinguished by compact design and precise tailoring to specific applications rather than a specific extinguishing agent."
+7,Spark extinguishing systems,"Detect ignition initials in extraction and conveying equipment and generate a water curtain at high speed to extinguish glowing particles. Used where flammable materials are transported pneumatically."
+8,Fire prevention systems,"Reduce the oxygen content of the air in the protected area via targeted nitrogen supply, creating a fire-safe atmosphere so a fire cannot start in the first place."
+9,Inveron hazard management system,"A clear, user-friendly system for visualising and operating fire alarm, extinguishing and hazard detection systems on one interface, ideal for extensive, complex building structures."

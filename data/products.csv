@@ -1,0 +1,25 @@
+product_id,category_id,product_name
+1,1,Clunid
+2,1,UniVario
+3,1,HELIOS
+4,2,Sprinkler systems
+5,2,Deluge systems
+6,2,MXOne
+7,3,Minifog EconAqua
+8,3,Minifog ProCon
+9,3,Minifog ProCon XP
+10,3,Minifog marine XP
+11,4,Foam extinguishing systems
+12,4,eProp proportioning system
+13,5,Oxeo Inert gas systems
+14,5,Carbon dioxide systems
+15,5,Halocarbon extinguishing systems
+16,6,CPS 1230 Cabinet protection systems
+17,6,OneU Fire protection systems
+18,7,Spark extinguishing systems
+19,8,Oxeo EcoPrevent FC
+20,8,Oxeo EcoPrevent PG
+21,8,Oxeo EcoPrevent VG
+22,8,Oxeo EcoPrevent CS
+23,8,Oxeo EcoPrevent ES
+24,9,Inveron

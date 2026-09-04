@@ -1,0 +1,17 @@
+industry_id,sector_id,industry_name
+1,1,Automotive plants
+2,1,Wood processing plants
+3,1,Aluminium and Steel plants
+4,1,Paper & Printing plants
+5,1,Food plants
+6,2,Combined cycle power plants
+7,2,Coal power plants
+8,2,Recycling plants
+9,2,Wind energy plants
+10,3,Logistic centers
+11,3,Retail
+12,3,Office buildings
+13,4,Data Center
+14,4,Hotels
+15,4,Research institutions
+16,4,Hospitals
